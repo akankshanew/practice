@@ -1,1 +1,2 @@
 niku added f2
+niku adds line 2
